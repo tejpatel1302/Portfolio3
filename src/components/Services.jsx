@@ -27,7 +27,7 @@ const Collaboration = () => {
             ))}
           </ul>
 
-          <Button>Contact Us</Button>
+          <Button>Contact Us: 9328054967</Button>
         </div>
 
         <div className="lg:ml-auto xl:w-[38rem] mt-4">
